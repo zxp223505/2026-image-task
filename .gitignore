@@ -1,0 +1,17 @@
+﻿# 数据与权重不入库
+*.pt
+*.pth
+*.npy
+*.npz
+*.csv
+data/
+runs/
+pred_*/
+checkpoints/
+image/
+demo_run/
+__pycache__/
+*.pyc
+.vs/
+.idea/
+torchcache/
